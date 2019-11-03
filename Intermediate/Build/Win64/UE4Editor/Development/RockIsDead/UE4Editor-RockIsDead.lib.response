@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RockIsDead.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\RockIsDeadEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\RockIsDead.cpp.obj"
+"D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\RockIsDeadGameModeBase.cpp.obj"
+"D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\RockIsDead.init.gen.cpp.obj"
+"D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\RockIsDeadGameModeBase.gen.cpp.obj"
+"D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\Default.rc2.res"
+/OUT:"D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\UE4Editor-RockIsDead.lib"
+/INCLUDE:IMPLEMENT_MODULE_RockIsDead
