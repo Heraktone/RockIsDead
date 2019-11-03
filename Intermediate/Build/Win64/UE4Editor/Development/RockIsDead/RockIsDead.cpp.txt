@@ -1,0 +1,2 @@
+D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\Definitions.RockIsDead.h
+d:\unreal engine\project\rockisdead\source\rockisdead\RockIsDead.h
