@@ -7,9 +7,11 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\RockIsDeadEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\DefaultPlayer.cpp.obj"
 "D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\MainController.cpp.obj"
 "D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\RockIsDead.cpp.obj"
 "D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\RockIsDeadGameModeBase.cpp.obj"
+"D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\DefaultPlayer.gen.cpp.obj"
 "D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\MainController.gen.cpp.obj"
 "D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\RockIsDead.init.gen.cpp.obj"
 "D:\Unreal Engine\Project\RockIsDead\Intermediate\Build\Win64\UE4Editor\Development\RockIsDead\RockIsDeadGameModeBase.gen.cpp.obj"

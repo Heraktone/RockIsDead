@@ -29,6 +29,5 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	bool TalkAction;
 
-	UFUNCTION(BlueprintImplementableEvent)
 	void Talk();
 };

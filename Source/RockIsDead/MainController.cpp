@@ -2,7 +2,3 @@
 
 
 #include "MainController.h"
-
-void AMainController::SetupPlayerInputComponent() {
-
-}

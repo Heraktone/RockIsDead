@@ -35,3 +35,7 @@ void ADefaultPlayer::SetupPlayerInputComponent(UInputComponent* PlayerInputCompo
 
 }
 
+void ADefaultPlayer::Talk()
+{
+	UE_LOG(LogTemp, Warning, TEXT("You are talking"));
+}

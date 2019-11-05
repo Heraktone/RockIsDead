@@ -13,13 +13,4 @@ UCLASS()
 class ROCKISDEAD_API AMainController : public APlayerController
 {
 	GENERATED_BODY()
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	float TalkAction;
-
-	UFUNCTION(BlueprintImplementableEvent)
-	void Talk();
-
-	void SetupPlayerInputComponent();
-	
 };
