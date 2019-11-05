@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\RockIsDead.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E82FB1B0-4B7B-4231-8F23-A9DF09A1B3DB}</UniqueIdentifier>
+      <UniqueIdentifier>{D9E4C3C5-EF7E-4A58-919E-6D644642F226}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RockIsDead.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\RockIsDeadEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{1FB04853-B79A-4856-8207-56FD6F696825}</UniqueIdentifier>
+      <UniqueIdentifier>{B2FE7426-17D9-489D-BB62-327309DAAB95}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,56 +26,62 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Android">
-      <UniqueIdentifier>{F93E8B12-E6C1-456D-BF2F-0E999F686C6E}</UniqueIdentifier>
+      <UniqueIdentifier>{11E1B460-75F8-41C7-9A54-E3CB9D083F3A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Android\AndroidEngine.ini">
       <Filter>Config\Android</Filter>
     </None>
     <Filter Include="Config\IOS">
-      <UniqueIdentifier>{79807C62-39EE-4C4E-A9EB-F743AFE85590}</UniqueIdentifier>
+      <UniqueIdentifier>{A0CFC37E-AC08-4204-A855-CA9743401152}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\IOS\IOSEngine.ini">
       <Filter>Config\IOS</Filter>
     </None>
     <Filter Include="Config\Linux">
-      <UniqueIdentifier>{8CF5C2F3-06D5-4ED7-B794-F4F1F0430D93}</UniqueIdentifier>
+      <UniqueIdentifier>{7E94F72D-C70F-4F8F-B20C-04E0FC33D7CE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Linux\LinuxEngine.ini">
       <Filter>Config\Linux</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{BAD07339-64AE-4639-8607-9718E1ACE015}</UniqueIdentifier>
+      <UniqueIdentifier>{EAB962CD-EEF8-4AE2-B4F3-FB1D8CD16F17}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
     <Filter Include="Config\PS4">
-      <UniqueIdentifier>{04950D0A-0434-4531-BF13-22E55770B019}</UniqueIdentifier>
+      <UniqueIdentifier>{5527612F-33F9-4FD1-92BA-02A2FB388AFE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\PS4\PS4Engine.ini">
       <Filter>Config\PS4</Filter>
     </None>
     <Filter Include="Config\Switch">
-      <UniqueIdentifier>{229EFAA2-770D-43FB-A888-A3F860114C6C}</UniqueIdentifier>
+      <UniqueIdentifier>{018FE50C-D52C-4119-992A-5212EDD76055}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Switch\SwitchEngine.ini">
       <Filter>Config\Switch</Filter>
     </None>
     <Filter Include="Config\Windows">
-      <UniqueIdentifier>{2AF29DA9-BBFE-408A-9C8F-6A5B5B05911B}</UniqueIdentifier>
+      <UniqueIdentifier>{A8FFB976-D684-46A6-8888-2C4D6B6270EB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Windows\WindowsEngine.ini">
       <Filter>Config\Windows</Filter>
     </None>
     <Filter Include="Config\XboxOne">
-      <UniqueIdentifier>{DCD52491-0484-4ACC-A138-4A000749675B}</UniqueIdentifier>
+      <UniqueIdentifier>{CDCAFA0D-6910-4886-8F4D-83D50F69FB4A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
       <Filter>Config\XboxOne</Filter>
     </None>
     <Filter Include="Source\RockIsDead">
-      <UniqueIdentifier>{DDC85921-7E4A-45A4-88B0-99FDD294D8F6}</UniqueIdentifier>
+      <UniqueIdentifier>{52A3A757-6872-465D-BEE6-F46BD1174F54}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\RockIsDead\MainController.cpp">
+      <Filter>Source\RockIsDead</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RockIsDead\MainController.h">
+      <Filter>Source\RockIsDead</Filter>
+    </ClInclude>
     <None Include="..\..\Source\RockIsDead\RockIsDead.Build.cs">
       <Filter>Source\RockIsDead</Filter>
     </None>
@@ -89,5 +97,15 @@
     <ClInclude Include="..\..\Source\RockIsDead\RockIsDeadGameModeBase.h">
       <Filter>Source\RockIsDead</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\RockIsDead\DefaultPlayer.h">
+      <Filter>Source\RockIsDead</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\RockIsDead\DefaultPlayer.cpp">
+      <Filter>Source\RockIsDead</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
