@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeRockIsDead_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x5C4B5D23,
-				0x877EFB57,
+				0x87321CC5,
+				0x1CC13415,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
